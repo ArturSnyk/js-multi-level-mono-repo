@@ -1,0 +1,19 @@
+{
+  "name": "js-multi-level-mono-repo",
+  "version": "1.0.0",
+  "description": "A app with multiple package.json files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snyk-fixtures/js-multi-level-mono-repo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/snyk-fixtures/js-multi-level-mono-repo/issues"
+  },
+  "homepage": "https://github.com/snyk-fixtures/js-multi-level-mono-repo#readme"
+}
